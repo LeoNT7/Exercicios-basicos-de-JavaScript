@@ -16,6 +16,7 @@ Para testar os códigos HTML/JS, basta abrir o arquivo index.html no navegador.
 Para scripts JavaScript puros, execute o arquivo .js diretamente no console do navegador.
 
 ## 📚 O que você vai encontrar aqui
+
 Exercícios de manipulação de variáveis
 
 Contagens progressivas e regressivas com loops
@@ -23,6 +24,8 @@ Contagens progressivas e regressivas com loops
 Condicionais if, else if e switch
 
 Funções básicas e uso de escopo
+
+Geração de números aleatórios com Math.random
 
 ## 🤝 Contato
 Quer bater um papo sobre código, dar dicas ou trocar uma ideia? Me chama!
