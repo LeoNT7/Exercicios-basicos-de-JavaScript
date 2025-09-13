@@ -16,7 +16,7 @@ Este repositório reúne minha prática diária com JavaScript, separada por tem
 > Funções com parâmetros, retorno e lógica encapsulada.
 
 🎲 **extras/**  
-> Math.random, prompt, alert e exercícios avulsos ou mais livres.
+> Math.random, prompt, alert, eventos e exercícios avulsos ou mais livres.
 
 ---
 
